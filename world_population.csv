@@ -1,0 +1,1639 @@
+Continent,Country/Territory,Year,Population
+Asia,Afghanistan,1970-01-01,10752971
+Europe,Albania,1970-01-01,2324731
+Africa,Algeria,1970-01-01,13795915
+Oceania,American Samoa,1970-01-01,27075
+Europe,Andorra,1970-01-01,19860
+Africa,Angola,1970-01-01,6029700
+North America,Anguilla,1970-01-01,6283
+North America,Antigua and Barbuda,1970-01-01,64516
+South America,Argentina,1970-01-01,23842803
+Asia,Armenia,1970-01-01,2534377
+North America,Aruba,1970-01-01,59106
+Oceania,Australia,1970-01-01,12595034
+Europe,Austria,1970-01-01,7465301
+Asia,Azerbaijan,1970-01-01,5425317
+North America,Bahamas,1970-01-01,179129
+Asia,Bahrain,1970-01-01,222555
+Asia,Bangladesh,1970-01-01,67541860
+North America,Barbados,1970-01-01,241397
+Europe,Belarus,1970-01-01,9170786
+Europe,Belgium,1970-01-01,9629376
+North America,Belize,1970-01-01,120905
+Africa,Benin,1970-01-01,3023443
+North America,Bermuda,1970-01-01,52019
+Asia,Bhutan,1970-01-01,298894
+South America,Bolivia,1970-01-01,4585693
+Europe,Bosnia and Herzegovina,1970-01-01,3815561
+Africa,Botswana,1970-01-01,592244
+South America,Brazil,1970-01-01,96369875
+North America,British Virgin Islands,1970-01-01,9581
+Asia,Brunei,1970-01-01,133343
+Europe,Bulgaria,1970-01-01,8582950
+Africa,Burkina Faso,1970-01-01,5611666
+Africa,Burundi,1970-01-01,3497834
+Asia,Cambodia,1970-01-01,6708525
+Africa,Cameroon,1970-01-01,6452787
+North America,Canada,1970-01-01,21434577
+Africa,Cape Verde,1970-01-01,287262
+North America,Cayman Islands,1970-01-01,10533
+Africa,Central African Republic,1970-01-01,2067356
+Africa,Chad,1970-01-01,3667394
+South America,Chile,1970-01-01,9820481
+Asia,China,1970-01-01,822534450
+South America,Colombia,1970-01-01,20905254
+Africa,Comoros,1970-01-01,242351
+Oceania,Cook Islands,1970-01-01,20470
+North America,Costa Rica,1970-01-01,1855697
+Europe,Croatia,1970-01-01,4492638
+North America,Cuba,1970-01-01,8869636
+North America,Curacao,1970-01-01,150385
+Europe,Cyprus,1970-01-01,640804
+Europe,Czech Republic,1970-01-01,9795744
+Europe,Denmark,1970-01-01,4922963
+Africa,Djibouti,1970-01-01,144379
+North America,Dominica,1970-01-01,68895
+North America,Dominican Republic,1970-01-01,4475871
+Africa,DR Congo,1970-01-01,20151733
+South America,Ecuador,1970-01-01,6172215
+Africa,Egypt,1970-01-01,34781986
+North America,El Salvador,1970-01-01,3619090
+Africa,Equatorial Guinea,1970-01-01,316955
+Africa,Eritrea,1970-01-01,1272748
+Europe,Estonia,1970-01-01,1361999
+Africa,Eswatini,1970-01-01,442865
+Africa,Ethiopia,1970-01-01,28308246
+South America,Falkland Islands,1970-01-01,2274
+Europe,Faroe Islands,1970-01-01,38416
+Oceania,Fiji,1970-01-01,527634
+Europe,Finland,1970-01-01,4606621
+Europe,France,1970-01-01,50523586
+South America,French Guiana,1970-01-01,46484
+Oceania,French Polynesia,1970-01-01,117891
+Africa,Gabon,1970-01-01,597192
+Africa,Gambia,1970-01-01,528731
+Asia,Georgia,1970-01-01,4800426
+Europe,Germany,1970-01-01,78294583
+Africa,Ghana,1970-01-01,8861895
+Europe,Gibraltar,1970-01-01,26685
+Europe,Greece,1970-01-01,8544873
+North America,Greenland,1970-01-01,45434
+North America,Grenada,1970-01-01,98794
+North America,Guadeloupe,1970-01-01,318310
+Oceania,Guam,1970-01-01,88300
+North America,Guatemala,1970-01-01,5453208
+Europe,Guernsey,1970-01-01,52656
+Africa,Guinea,1970-01-01,4222374
+Africa,Guinea-Bissau,1970-01-01,591663
+South America,Guyana,1970-01-01,705261
+North America,Haiti,1970-01-01,4680812
+North America,Honduras,1970-01-01,2782753
+Asia,Hong Kong,1970-01-01,3955072
+Europe,Hungary,1970-01-01,10315366
+Europe,Iceland,1970-01-01,204468
+Asia,India,1970-01-01,557501301
+Asia,Indonesia,1970-01-01,115228394
+Asia,Iran,1970-01-01,28449705
+Asia,Iraq,1970-01-01,9811347
+Europe,Ireland,1970-01-01,2937637
+Europe,Isle of Man,1970-01-01,55298
+Asia,Israel,1970-01-01,2907307
+Europe,Italy,1970-01-01,53324036
+Africa,Ivory Coast,1970-01-01,5477086
+North America,Jamaica,1970-01-01,1859091
+Asia,Japan,1970-01-01,105416839
+Europe,Jersey,1970-01-01,68347
+Asia,Jordan,1970-01-01,1557374
+Asia,Kazakhstan,1970-01-01,12265305
+Africa,Kenya,1970-01-01,11473087
+Oceania,Kiribati,1970-01-01,57437
+Asia,Kuwait,1970-01-01,802786
+Asia,Kyrgyzstan,1970-01-01,3016384
+Asia,Laos,1970-01-01,2675283
+Europe,Latvia,1970-01-01,2397414
+Asia,Lebanon,1970-01-01,2381791
+Africa,Lesotho,1970-01-01,1023481
+Africa,Liberia,1970-01-01,1463563
+Africa,Libya,1970-01-01,1909177
+Europe,Liechtenstein,1970-01-01,21089
+Europe,Lithuania,1970-01-01,3210147
+Europe,Luxembourg,1970-01-01,339342
+Asia,Macau,1970-01-01,247284
+Africa,Madagascar,1970-01-01,6639751
+Africa,Malawi,1970-01-01,4625141
+Asia,Malaysia,1970-01-01,10306508
+Asia,Maldives,1970-01-01,123243
+Africa,Mali,1970-01-01,6153587
+Europe,Malta,1970-01-01,315414
+Oceania,Marshall Islands,1970-01-01,23969
+North America,Martinique,1970-01-01,326428
+Africa,Mauritania,1970-01-01,1122198
+Africa,Mauritius,1970-01-01,830115
+Africa,Mayotte,1970-01-01,35383
+North America,Mexico,1970-01-01,50289306
+Oceania,Micronesia,1970-01-01,58989
+Europe,Moldova,1970-01-01,3711140
+Europe,Monaco,1970-01-01,24270
+Asia,Mongolia,1970-01-01,1293880
+Europe,Montenegro,1970-01-01,530268
+North America,Montserrat,1970-01-01,11402
+Africa,Morocco,1970-01-01,15274351
+Africa,Mozambique,1970-01-01,8411676
+Asia,Myanmar,1970-01-01,27284112
+Africa,Namibia,1970-01-01,754467
+Oceania,Nauru,1970-01-01,6663
+Asia,Nepal,1970-01-01,12501285
+Europe,Netherlands,1970-01-01,13037686
+Oceania,New Caledonia,1970-01-01,110982
+Oceania,New Zealand,1970-01-01,2824061
+North America,Nicaragua,1970-01-01,2444767
+Africa,Niger,1970-01-01,4669708
+Africa,Nigeria,1970-01-01,55569264
+Oceania,Niue,1970-01-01,5185
+Asia,North Korea,1970-01-01,14996879
+Europe,North Macedonia,1970-01-01,1656783
+Oceania,Northern Mariana Islands,1970-01-01,10143
+Europe,Norway,1970-01-01,3875546
+Asia,Oman,1970-01-01,670693
+Asia,Pakistan,1970-01-01,59290872
+Oceania,Palau,1970-01-01,11366
+Asia,Palestine,1970-01-01,1118241
+North America,Panama,1970-01-01,1516188
+Oceania,Papua New Guinea,1970-01-01,2489059
+South America,Paraguay,1970-01-01,2408787
+South America,Peru,1970-01-01,13562371
+Asia,Philippines,1970-01-01,37435586
+Europe,Poland,1970-01-01,32482943
+Europe,Portugal,1970-01-01,8683631
+North America,Puerto Rico,1970-01-01,2737619
+Asia,Qatar,1970-01-01,118007
+Africa,Republic of the Congo,1970-01-01,1396989
+Africa,Reunion,1970-01-01,473925
+Europe,Romania,1970-01-01,19922618
+Europe,Russia,1970-01-01,130093010
+Africa,Rwanda,1970-01-01,3896367
+North America,Saint Barthelemy,1970-01-01,2417
+North America,Saint Kitts and Nevis,1970-01-01,44968
+North America,Saint Lucia,1970-01-01,103090
+North America,Saint Martin,1970-01-01,5802
+North America,Saint Pierre and Miquelon,1970-01-01,5537
+North America,Saint Vincent and the Grenadines,1970-01-01,98459
+Oceania,Samoa,1970-01-01,142771
+Europe,San Marino,1970-01-01,18169
+Africa,Sao Tome and Principe,1970-01-01,77583
+Asia,Saudi Arabia,1970-01-01,6106191
+Africa,Senegal,1970-01-01,4367744
+Europe,Serbia,1970-01-01,7193533
+Africa,Seychelles,1970-01-01,54379
+Africa,Sierra Leone,1970-01-01,2778557
+Asia,Singapore,1970-01-01,2061831
+North America,Sint Maarten,1970-01-01,6260
+Europe,Slovakia,1970-01-01,4522867
+Europe,Slovenia,1970-01-01,1741286
+Oceania,Solomon Islands,1970-01-01,172833
+Africa,Somalia,1970-01-01,3720977
+Africa,South Africa,1970-01-01,22368306
+Asia,South Korea,1970-01-01,32601143
+Africa,South Sudan,1970-01-01,3342410
+Europe,Spain,1970-01-01,33792617
+Asia,Sri Lanka,1970-01-01,12388769
+Africa,Sudan,1970-01-01,11305206
+South America,Suriname,1970-01-01,379918
+Europe,Sweden,1970-01-01,8027702
+Europe,Switzerland,1970-01-01,6181227
+Asia,Syria,1970-01-01,6319199
+Asia,Taiwan,1970-01-01,14957870
+Asia,Tajikistan,1970-01-01,2993019
+Africa,Tanzania,1970-01-01,13618192
+Asia,Thailand,1970-01-01,35791728
+Asia,Timor-Leste,1970-01-01,554021
+Africa,Togo,1970-01-01,2197383
+Oceania,Tokelau,1970-01-01,1714
+Oceania,Tonga,1970-01-01,86484
+North America,Trinidad and Tobago,1970-01-01,988890
+Africa,Tunisia,1970-01-01,5047404
+Asia,Turkey,1970-01-01,35540990
+Asia,Turkmenistan,1970-01-01,2201432
+North America,Turks and Caicos Islands,1970-01-01,5665
+Oceania,Tuvalu,1970-01-01,5814
+Africa,Uganda,1970-01-01,10317212
+Europe,Ukraine,1970-01-01,47279086
+Asia,United Arab Emirates,1970-01-01,298084
+Europe,United Kingdom,1970-01-01,55650166
+North America,United States,1970-01-01,200328340
+North America,United States Virgin Islands,1970-01-01,63446
+South America,Uruguay,1970-01-01,2790265
+Asia,Uzbekistan,1970-01-01,12011361
+Oceania,Vanuatu,1970-01-01,87019
+Europe,Vatican City,1970-01-01,752
+South America,Venezuela,1970-01-01,11355475
+Asia,Vietnam,1970-01-01,41928849
+Oceania,Wallis and Futuna,1970-01-01,9377
+Africa,Western Sahara,1970-01-01,76371
+Asia,Yemen,1970-01-01,6843607
+Africa,Zambia,1970-01-01,4281671
+Africa,Zimbabwe,1970-01-01,5202918
+Asia,Afghanistan,1980-01-01,12486631
+Europe,Albania,1980-01-01,2941651
+Africa,Algeria,1980-01-01,18739378
+Oceania,American Samoa,1980-01-01,32886
+Europe,Andorra,1980-01-01,35611
+Africa,Angola,1980-01-01,8330047
+North America,Anguilla,1980-01-01,6560
+North America,Antigua and Barbuda,1980-01-01,64888
+South America,Argentina,1980-01-01,28024803
+Asia,Armenia,1980-01-01,3135123
+North America,Aruba,1980-01-01,62267
+Oceania,Australia,1980-01-01,14706322
+Europe,Austria,1980-01-01,7547561
+Asia,Azerbaijan,1980-01-01,6383060
+North America,Bahamas,1980-01-01,223752
+Asia,Bahrain,1980-01-01,362595
+Asia,Bangladesh,1980-01-01,83929765
+North America,Barbados,1980-01-01,253575
+Europe,Belarus,1980-01-01,9817257
+Europe,Belgium,1980-01-01,9828986
+North America,Belize,1980-01-01,145133
+Africa,Benin,1980-01-01,3833939
+North America,Bermuda,1980-01-01,53565
+Asia,Bhutan,1980-01-01,415257
+South America,Bolivia,1980-01-01,5736088
+Europe,Bosnia and Herzegovina,1980-01-01,4199820
+Africa,Botswana,1980-01-01,938578
+South America,Brazil,1980-01-01,122288383
+North America,British Virgin Islands,1980-01-01,11109
+Asia,Brunei,1980-01-01,187921
+Europe,Bulgaria,1980-01-01,8980606
+Africa,Burkina Faso,1980-01-01,6932967
+Africa,Burundi,1980-01-01,4312834
+Asia,Cambodia,1980-01-01,6198959
+Africa,Cameroon,1980-01-01,8519891
+North America,Canada,1980-01-01,24511510
+Africa,Cape Verde,1980-01-01,317234
+North America,Cayman Islands,1980-01-01,17100
+Africa,Central African Republic,1980-01-01,2415276
+Africa,Chad,1980-01-01,4408230
+South America,Chile,1980-01-01,11469828
+Asia,China,1980-01-01,982372466
+South America,Colombia,1980-01-01,26176195
+Africa,Comoros,1980-01-01,328328
+Oceania,Cook Islands,1980-01-01,17651
+North America,Costa Rica,1980-01-01,2414303
+Europe,Croatia,1980-01-01,4680144
+North America,Cuba,1980-01-01,9809107
+North America,Curacao,1980-01-01,156851
+Europe,Cyprus,1980-01-01,679327
+Europe,Czech Republic,1980-01-01,10270060
+Europe,Denmark,1980-01-01,5125392
+Africa,Djibouti,1980-01-01,324121
+North America,Dominica,1980-01-01,72978
+North America,Dominican Republic,1980-01-01,5755800
+Africa,DR Congo,1980-01-01,26708686
+South America,Ecuador,1980-01-01,8135845
+Africa,Egypt,1980-01-01,43748556
+North America,El Salvador,1980-01-01,4508992
+Africa,Equatorial Guinea,1980-01-01,282509
+Africa,Eritrea,1980-01-01,1657982
+Europe,Estonia,1980-01-01,1476983
+Africa,Eswatini,1980-01-01,598564
+Africa,Ethiopia,1980-01-01,34945469
+South America,Falkland Islands,1980-01-01,2240
+Europe,Faroe Islands,1980-01-01,43054
+Oceania,Fiji,1980-01-01,644582
+Europe,Finland,1980-01-01,4779418
+Europe,France,1980-01-01,53713830
+South America,French Guiana,1980-01-01,66825
+Oceania,French Polynesia,1980-01-01,163591
+Africa,Gabon,1980-01-01,749078
+Africa,Gambia,1980-01-01,718586
+Asia,Georgia,1980-01-01,5145843
+Europe,Germany,1980-01-01,77786703
+Africa,Ghana,1980-01-01,11865246
+Europe,Gibraltar,1980-01-01,28734
+Europe,Greece,1980-01-01,9307148
+North America,Greenland,1980-01-01,50106
+North America,Grenada,1980-01-01,94838
+North America,Guadeloupe,1980-01-01,334234
+Oceania,Guam,1980-01-01,110286
+North America,Guatemala,1980-01-01,6987767
+Europe,Guernsey,1980-01-01,52860
+Africa,Guinea,1980-01-01,4972609
+Africa,Guinea-Bissau,1980-01-01,831462
+South America,Guyana,1980-01-01,778176
+North America,Haiti,1980-01-01,5646676
+North America,Honduras,1980-01-01,3777990
+Asia,Hong Kong,1980-01-01,4978544
+Europe,Hungary,1980-01-01,10698679
+Europe,Iceland,1980-01-01,228263
+Asia,India,1980-01-01,696828385
+Asia,Indonesia,1980-01-01,148177096
+Asia,Iran,1980-01-01,38520664
+Asia,Iraq,1980-01-01,13653369
+Europe,Ireland,1980-01-01,3391387
+Europe,Isle of Man,1980-01-01,64022
+Asia,Israel,1980-01-01,3744608
+Europe,Italy,1980-01-01,56329482
+Africa,Ivory Coast,1980-01-01,8303809
+North America,Jamaica,1980-01-01,2135546
+Asia,Japan,1980-01-01,117624196
+Europe,Jersey,1980-01-01,75124
+Asia,Jordan,1980-01-01,2216903
+Asia,Kazakhstan,1980-01-01,14172710
+Africa,Kenya,1980-01-01,16187124
+Oceania,Kiribati,1980-01-01,60813
+Asia,Kuwait,1980-01-01,1493870
+Asia,Kyrgyzstan,1980-01-01,3691209
+Asia,Laos,1980-01-01,3297519
+Europe,Latvia,1980-01-01,2572037
+Asia,Lebanon,1980-01-01,2963702
+Africa,Lesotho,1980-01-01,1407672
+Africa,Liberia,1980-01-01,1932169
+Africa,Libya,1980-01-01,2962720
+Europe,Liechtenstein,1980-01-01,25003
+Europe,Lithuania,1980-01-01,3521206
+Europe,Luxembourg,1980-01-01,363741
+Asia,Macau,1980-01-01,245332
+Africa,Madagascar,1980-01-01,8948162
+Africa,Malawi,1980-01-01,6267369
+Asia,Malaysia,1980-01-01,13215707
+Asia,Maldives,1980-01-01,164887
+Africa,Mali,1980-01-01,7372581
+Europe,Malta,1980-01-01,333587
+Oceania,Marshall Islands,1980-01-01,31988
+North America,Martinique,1980-01-01,333786
+Africa,Mauritania,1980-01-01,1506694
+Africa,Mauritius,1980-01-01,954865
+Africa,Mayotte,1980-01-01,52233
+North America,Mexico,1980-01-01,67705186
+Oceania,Micronesia,1980-01-01,76299
+Europe,Moldova,1980-01-01,4103240
+Europe,Monaco,1980-01-01,27076
+Asia,Mongolia,1980-01-01,1697780
+Europe,Montenegro,1980-01-01,589324
+North America,Montserrat,1980-01-01,11452
+Africa,Morocco,1980-01-01,19678444
+Africa,Mozambique,1980-01-01,11413587
+Asia,Myanmar,1980-01-01,33465781
+Africa,Namibia,1980-01-01,975994
+Oceania,Nauru,1980-01-01,7635
+Asia,Nepal,1980-01-01,15600442
+Europe,Netherlands,1980-01-01,14130387
+Oceania,New Caledonia,1980-01-01,148599
+Oceania,New Zealand,1980-01-01,3147168
+North America,Nicaragua,1980-01-01,3303309
+Africa,Niger,1980-01-01,6173177
+Africa,Nigeria,1980-01-01,72951439
+Oceania,Niue,1980-01-01,3637
+Asia,North Korea,1980-01-01,17973650
+Europe,North Macedonia,1980-01-01,1907023
+Oceania,Northern Mariana Islands,1980-01-01,17613
+Europe,Norway,1980-01-01,4085776
+Asia,Oman,1980-01-01,1017462
+Asia,Pakistan,1980-01-01,80624057
+Oceania,Palau,1980-01-01,12252
+Asia,Palestine,1980-01-01,1453620
+North America,Panama,1980-01-01,1956987
+Oceania,Papua New Guinea,1980-01-01,3104788
+South America,Paraguay,1980-01-01,3078912
+South America,Peru,1980-01-01,17492406
+Asia,Philippines,1980-01-01,48419546
+Europe,Poland,1980-01-01,35521429
+Europe,Portugal,1980-01-01,9785252
+North America,Puerto Rico,1980-01-01,3214568
+Asia,Qatar,1980-01-01,277450
+Africa,Republic of the Congo,1980-01-01,1829256
+Africa,Reunion,1980-01-01,551674
+Europe,Romania,1980-01-01,22125224
+Europe,Russia,1980-01-01,138257420
+Africa,Rwanda,1980-01-01,5247532
+North America,Saint Barthelemy,1980-01-01,2983
+North America,Saint Kitts and Nevis,1980-01-01,43097
+North America,Saint Lucia,1980-01-01,121633
+North America,Saint Martin,1980-01-01,7776
+North America,Saint Pierre and Miquelon,1980-01-01,6106
+North America,Saint Vincent and the Grenadines,1980-01-01,107480
+Oceania,Samoa,1980-01-01,164905
+Europe,San Marino,1980-01-01,21346
+Africa,Sao Tome and Principe,1980-01-01,97210
+Asia,Saudi Arabia,1980-01-01,10171710
+Africa,Senegal,1980-01-01,5703869
+Europe,Serbia,1980-01-01,7777010
+Africa,Seychelles,1980-01-01,65290
+Africa,Sierra Leone,1980-01-01,3367477
+Asia,Singapore,1980-01-01,2400729
+North America,Sint Maarten,1980-01-01,12243
+Europe,Slovakia,1980-01-01,4973883
+Europe,Slovenia,1980-01-01,1901570
+Oceania,Solomon Islands,1980-01-01,233668
+Africa,Somalia,1980-01-01,5892224
+Africa,South Africa,1980-01-01,29463549
+Asia,South Korea,1980-01-01,38170501
+Africa,South Sudan,1980-01-01,4192011
+Europe,Spain,1980-01-01,37491666
+Asia,Sri Lanka,1980-01-01,14943645
+Africa,Sudan,1980-01-01,16673586
+South America,Suriname,1980-01-01,375112
+Europe,Sweden,1980-01-01,8311763
+Europe,Switzerland,1980-01-01,6319113
+Asia,Syria,1980-01-01,8898954
+Asia,Taiwan,1980-01-01,18100281
+Asia,Tajikistan,1980-01-01,4045965
+Africa,Tanzania,1980-01-01,19297659
+Asia,Thailand,1980-01-01,45737753
+Asia,Timor-Leste,1980-01-01,642224
+Africa,Togo,1980-01-01,2838110
+Oceania,Tokelau,1980-01-01,1647
+Oceania,Tonga,1980-01-01,96708
+North America,Trinidad and Tobago,1980-01-01,1127852
+Africa,Tunisia,1980-01-01,6578156
+Asia,Turkey,1980-01-01,44089069
+Asia,Turkmenistan,1980-01-01,2862903
+North America,Turks and Caicos Islands,1980-01-01,7598
+Oceania,Tuvalu,1980-01-01,7731
+Africa,Uganda,1980-01-01,13284026
+Europe,Ukraine,1980-01-01,49973920
+Asia,United Arab Emirates,1980-01-01,1014048
+Europe,United Kingdom,1980-01-01,56326328
+North America,United States,1980-01-01,223140018
+North America,United States Virgin Islands,1980-01-01,96640
+South America,Uruguay,1980-01-01,2953750
+Asia,Uzbekistan,1980-01-01,15947129
+Oceania,Vanuatu,1980-01-01,118156
+Europe,Vatican City,1980-01-01,733
+South America,Venezuela,1980-01-01,15210443
+Asia,Vietnam,1980-01-01,52968270
+Oceania,Wallis and Futuna,1980-01-01,11315
+Africa,Western Sahara,1980-01-01,116775
+Asia,Yemen,1980-01-01,9204938
+Africa,Zambia,1980-01-01,5720438
+Africa,Zimbabwe,1980-01-01,7049926
+Asia,Afghanistan,1990-01-01,10694796
+Europe,Albania,1990-01-01,3295066
+Africa,Algeria,1990-01-01,25518074
+Oceania,American Samoa,1990-01-01,47818
+Europe,Andorra,1990-01-01,53569
+Africa,Angola,1990-01-01,11828638
+North America,Anguilla,1990-01-01,8316
+North America,Antigua and Barbuda,1990-01-01,63328
+South America,Argentina,1990-01-01,32637657
+Asia,Armenia,1990-01-01,3556539
+North America,Aruba,1990-01-01,65712
+Oceania,Australia,1990-01-01,17048003
+Europe,Austria,1990-01-01,7678729
+Asia,Azerbaijan,1990-01-01,7427836
+North America,Bahamas,1990-01-01,270679
+Asia,Bahrain,1990-01-01,517418
+Asia,Bangladesh,1990-01-01,107147651
+North America,Barbados,1990-01-01,258868
+Europe,Belarus,1990-01-01,10428525
+Europe,Belgium,1990-01-01,9959560
+North America,Belize,1990-01-01,182589
+Africa,Benin,1990-01-01,5133419
+North America,Bermuda,1990-01-01,57470
+Asia,Bhutan,1990-01-01,558442
+South America,Bolivia,1990-01-01,7096194
+Europe,Bosnia and Herzegovina,1990-01-01,4494310
+Africa,Botswana,1990-01-01,1341474
+South America,Brazil,1990-01-01,150706446
+North America,British Virgin Islands,1990-01-01,15617
+Asia,Brunei,1990-01-01,261928
+Europe,Bulgaria,1990-01-01,8767778
+Africa,Burkina Faso,1990-01-01,9131361
+Africa,Burundi,1990-01-01,5483793
+Asia,Cambodia,1990-01-01,8910808
+Africa,Cameroon,1990-01-01,11430520
+North America,Canada,1990-01-01,27657204
+Africa,Cape Verde,1990-01-01,364563
+North America,Cayman Islands,1990-01-01,26027
+Africa,Central African Republic,1990-01-01,2809221
+Africa,Chad,1990-01-01,5827069
+South America,Chile,1990-01-01,13342868
+Asia,China,1990-01-01,1153704252
+South America,Colombia,1990-01-01,32601393
+Africa,Comoros,1990-01-01,431119
+Oceania,Cook Islands,1990-01-01,17123
+North America,Costa Rica,1990-01-01,3158253
+Europe,Croatia,1990-01-01,4873707
+North America,Cuba,1990-01-01,10626680
+North America,Curacao,1990-01-01,155446
+Europe,Cyprus,1990-01-01,788500
+Europe,Czech Republic,1990-01-01,10301192
+Europe,Denmark,1990-01-01,5144623
+Africa,Djibouti,1990-01-01,577173
+North America,Dominica,1990-01-01,69481
+North America,Dominican Republic,1990-01-01,7129004
+Africa,DR Congo,1990-01-01,35987541
+South America,Ecuador,1990-01-01,10449837
+Africa,Egypt,1990-01-01,57214630
+North America,El Salvador,1990-01-01,5367179
+Africa,Equatorial Guinea,1990-01-01,465549
+Africa,Eritrea,1990-01-01,2149960
+Europe,Estonia,1990-01-01,1570674
+Africa,Eswatini,1990-01-01,854011
+Africa,Ethiopia,1990-01-01,47878073
+South America,Falkland Islands,1990-01-01,2332
+Europe,Faroe Islands,1990-01-01,47479
+Oceania,Fiji,1990-01-01,780430
+Europe,Finland,1990-01-01,4986545
+Europe,France,1990-01-01,56412897
+South America,French Guiana,1990-01-01,113931
+Oceania,French Polynesia,1990-01-01,211089
+Africa,Gabon,1990-01-01,983028
+Africa,Gambia,1990-01-01,1040616
+Asia,Georgia,1990-01-01,5391636
+Europe,Germany,1990-01-01,79370196
+Africa,Ghana,1990-01-01,15446982
+Europe,Gibraltar,1990-01-01,27317
+Europe,Greece,1990-01-01,10302255
+North America,Greenland,1990-01-01,55599
+North America,Grenada,1990-01-01,99047
+North America,Guadeloupe,1990-01-01,391951
+Oceania,Guam,1990-01-01,138263
+North America,Guatemala,1990-01-01,9084780
+Europe,Guernsey,1990-01-01,57727
+Africa,Guinea,1990-01-01,6354145
+Africa,Guinea-Bissau,1990-01-01,973551
+South America,Guyana,1990-01-01,747116
+North America,Haiti,1990-01-01,6925331
+North America,Honduras,1990-01-01,5053234
+Asia,Hong Kong,1990-01-01,5838574
+Europe,Hungary,1990-01-01,10375989
+Europe,Iceland,1990-01-01,255019
+Asia,India,1990-01-01,870452165
+Asia,Indonesia,1990-01-01,182159874
+Asia,Iran,1990-01-01,55793629
+Asia,Iraq,1990-01-01,17658381
+Europe,Ireland,1990-01-01,3485374
+Europe,Isle of Man,1990-01-01,68865
+Asia,Israel,1990-01-01,4803254
+Europe,Italy,1990-01-01,56756561
+Africa,Ivory Coast,1990-01-01,11910540
+North America,Jamaica,1990-01-01,2392030
+Asia,Japan,1990-01-01,123686321
+Europe,Jersey,1990-01-01,82874
+Asia,Jordan,1990-01-01,3480587
+Asia,Kazakhstan,1990-01-01,16866563
+Africa,Kenya,1990-01-01,23162269
+Oceania,Kiribati,1990-01-01,75124
+Asia,Kuwait,1990-01-01,1674938
+Asia,Kyrgyzstan,1990-01-01,4394734
+Asia,Laos,1990-01-01,4314443
+Europe,Latvia,1990-01-01,2689391
+Asia,Lebanon,1990-01-01,3593700
+Africa,Lesotho,1990-01-01,1798997
+Africa,Liberia,1990-01-01,2209731
+Africa,Libya,1990-01-01,4236983
+Europe,Liechtenstein,1990-01-01,28765
+Europe,Lithuania,1990-01-01,3785847
+Europe,Luxembourg,1990-01-01,381267
+Asia,Macau,1990-01-01,350227
+Africa,Madagascar,1990-01-01,11882762
+Africa,Malawi,1990-01-01,9539665
+Asia,Malaysia,1990-01-01,17517054
+Asia,Maldives,1990-01-01,224957
+Africa,Mali,1990-01-01,8945026
+Europe,Malta,1990-01-01,365392
+Oceania,Marshall Islands,1990-01-01,46047
+North America,Martinique,1990-01-01,374271
+Africa,Mauritania,1990-01-01,2006027
+Africa,Mauritius,1990-01-01,1090290
+Africa,Mayotte,1990-01-01,92659
+North America,Mexico,1990-01-01,81720428
+Oceania,Micronesia,1990-01-01,98603
+Europe,Moldova,1990-01-01,4480199
+Europe,Monaco,1990-01-01,30329
+Asia,Mongolia,1990-01-01,2161433
+Europe,Montenegro,1990-01-01,621442
+North America,Montserrat,1990-01-01,10805
+Africa,Morocco,1990-01-01,24570814
+Africa,Mozambique,1990-01-01,13303459
+Asia,Myanmar,1990-01-01,40099553
+Africa,Namibia,1990-01-01,1369011
+Oceania,Nauru,1990-01-01,9598
+Asia,Nepal,1990-01-01,19616530
+Europe,Netherlands,1990-01-01,14944548
+Oceania,New Caledonia,1990-01-01,177264
+Oceania,New Zealand,1990-01-01,3397389
+North America,Nicaragua,1990-01-01,4227820
+Africa,Niger,1990-01-01,8370647
+Africa,Nigeria,1990-01-01,95214257
+Oceania,Niue,1990-01-01,2533
+Asia,North Korea,1990-01-01,20799523
+Europe,North Macedonia,1990-01-01,2044174
+Oceania,Northern Mariana Islands,1990-01-01,48002
+Europe,Norway,1990-01-01,4241636
+Asia,Oman,1990-01-01,1804524
+Asia,Pakistan,1990-01-01,115414069
+Oceania,Palau,1990-01-01,15293
+Asia,Palestine,1990-01-01,2124609
+North America,Panama,1990-01-01,2449968
+Oceania,Papua New Guinea,1990-01-01,3864972
+South America,Paraguay,1990-01-01,4059195
+South America,Peru,1990-01-01,22109099
+Asia,Philippines,1990-01-01,61558898
+Europe,Poland,1990-01-01,38064255
+Europe,Portugal,1990-01-01,10007346
+North America,Puerto Rico,1990-01-01,3543776
+Asia,Qatar,1990-01-01,441675
+Africa,Republic of the Congo,1990-01-01,2385435
+Africa,Reunion,1990-01-01,658992
+Europe,Romania,1990-01-01,22836234
+Europe,Russia,1990-01-01,148005704
+Africa,Rwanda,1990-01-01,7319962
+North America,Saint Barthelemy,1990-01-01,5168
+North America,Saint Kitts and Nevis,1990-01-01,40636
+North America,Saint Lucia,1990-01-01,142301
+North America,Saint Martin,1990-01-01,28127
+North America,Saint Pierre and Miquelon,1990-01-01,6324
+North America,Saint Vincent and the Grenadines,1990-01-01,112487
+Oceania,Samoa,1990-01-01,168186
+Europe,San Marino,1990-01-01,23132
+Africa,Sao Tome and Principe,1990-01-01,120343
+Asia,Saudi Arabia,1990-01-01,16004763
+Africa,Senegal,1990-01-01,7536001
+Europe,Serbia,1990-01-01,7987529
+Africa,Seychelles,1990-01-01,71057
+Africa,Sierra Leone,1990-01-01,4325388
+Asia,Singapore,1990-01-01,3022209
+North America,Sint Maarten,1990-01-01,27845
+Europe,Slovakia,1990-01-01,5261305
+Europe,Slovenia,1990-01-01,1986024
+Oceania,Solomon Islands,1990-01-01,324171
+Africa,Somalia,1990-01-01,6999096
+Africa,South Africa,1990-01-01,39877570
+Asia,South Korea,1990-01-01,44120039
+Africa,South Sudan,1990-01-01,4750817
+Europe,Spain,1990-01-01,38889889
+Asia,Sri Lanka,1990-01-01,17204094
+Africa,Sudan,1990-01-01,21090886
+South America,Suriname,1990-01-01,412756
+Europe,Sweden,1990-01-01,8548406
+Europe,Switzerland,1990-01-01,6711693
+Asia,Syria,1990-01-01,12408996
+Asia,Taiwan,1990-01-01,20586174
+Asia,Tajikistan,1990-01-01,5417860
+Africa,Tanzania,1990-01-01,26206012
+Asia,Thailand,1990-01-01,55228410
+Asia,Timor-Leste,1990-01-01,758106
+Africa,Togo,1990-01-01,3875947
+Oceania,Tokelau,1990-01-01,1669
+Oceania,Tonga,1990-01-01,98727
+North America,Trinidad and Tobago,1990-01-01,1266518
+Africa,Tunisia,1990-01-01,8440023
+Asia,Turkey,1990-01-01,54324142
+Asia,Turkmenistan,1990-01-01,3720278
+North America,Turks and Caicos Islands,1990-01-01,11709
+Oceania,Tuvalu,1990-01-01,9182
+Africa,Uganda,1990-01-01,17586630
+Europe,Ukraine,1990-01-01,51589817
+Asia,United Arab Emirates,1990-01-01,1900151
+Europe,United Kingdom,1990-01-01,57210442
+North America,United States,1990-01-01,248083732
+North America,United States Virgin Islands,1990-01-01,100685
+South America,Uruguay,1990-01-01,3117012
+Asia,Uzbekistan,1990-01-01,20579100
+Oceania,Vanuatu,1990-01-01,150882
+Europe,Vatican City,1990-01-01,700
+South America,Venezuela,1990-01-01,19750579
+Asia,Vietnam,1990-01-01,66912613
+Oceania,Wallis and Futuna,1990-01-01,13454
+Africa,Western Sahara,1990-01-01,178529
+Asia,Yemen,1990-01-01,13375121
+Africa,Zambia,1990-01-01,7686401
+Africa,Zimbabwe,1990-01-01,10113893
+Asia,Afghanistan,2000-01-01,19542982
+Europe,Albania,2000-01-01,3182021
+Africa,Algeria,2000-01-01,30774621
+Oceania,American Samoa,2000-01-01,58230
+Europe,Andorra,2000-01-01,66097
+Africa,Angola,2000-01-01,16394062
+North America,Anguilla,2000-01-01,11047
+North America,Antigua and Barbuda,2000-01-01,75055
+South America,Argentina,2000-01-01,37070774
+Asia,Armenia,2000-01-01,3168523
+North America,Aruba,2000-01-01,89101
+Oceania,Australia,2000-01-01,19017963
+Europe,Austria,2000-01-01,8010428
+Asia,Azerbaijan,2000-01-01,8190337
+North America,Bahamas,2000-01-01,325014
+Asia,Bahrain,2000-01-01,711442
+Asia,Bangladesh,2000-01-01,129193327
+North America,Barbados,2000-01-01,264657
+Europe,Belarus,2000-01-01,10256483
+Europe,Belgium,2000-01-01,10264343
+North America,Belize,2000-01-01,240406
+Africa,Benin,2000-01-01,6998023
+North America,Bermuda,2000-01-01,61371
+Asia,Bhutan,2000-01-01,587207
+South America,Bolivia,2000-01-01,8592656
+Europe,Bosnia and Herzegovina,2000-01-01,4179350
+Africa,Botswana,2000-01-01,1726985
+South America,Brazil,2000-01-01,175873720
+North America,British Virgin Islands,2000-01-01,20104
+Asia,Brunei,2000-01-01,333926
+Europe,Bulgaria,2000-01-01,8097691
+Africa,Burkina Faso,2000-01-01,11882888
+Africa,Burundi,2000-01-01,6307659
+Asia,Cambodia,2000-01-01,12118841
+Africa,Cameroon,2000-01-01,15091594
+North America,Canada,2000-01-01,30683313
+Africa,Cape Verde,2000-01-01,458251
+North America,Cayman Islands,2000-01-01,39658
+Africa,Central African Republic,2000-01-01,3759170
+Africa,Chad,2000-01-01,8259137
+South America,Chile,2000-01-01,15351799
+Asia,China,2000-01-01,1264099069
+South America,Colombia,2000-01-01,39215135
+Africa,Comoros,2000-01-01,536758
+Oceania,Cook Islands,2000-01-01,15897
+North America,Costa Rica,2000-01-01,3979193
+Europe,Croatia,2000-01-01,4548434
+North America,Cuba,2000-01-01,11105791
+North America,Curacao,2000-01-01,141424
+Europe,Cyprus,2000-01-01,948237
+Europe,Czech Republic,2000-01-01,10234710
+Europe,Denmark,2000-01-01,5340655
+Africa,Djibouti,2000-01-01,742033
+North America,Dominica,2000-01-01,68346
+North America,Dominican Republic,2000-01-01,8540791
+Africa,DR Congo,2000-01-01,48616317
+South America,Ecuador,2000-01-01,12626507
+Africa,Egypt,2000-01-01,71371371
+North America,El Salvador,2000-01-01,5958482
+Africa,Equatorial Guinea,2000-01-01,684977
+Africa,Eritrea,2000-01-01,2392880
+Europe,Estonia,2000-01-01,1396877
+Africa,Eswatini,2000-01-01,1030496
+Africa,Ethiopia,2000-01-01,67031867
+South America,Falkland Islands,2000-01-01,3080
+Europe,Faroe Islands,2000-01-01,45660
+Oceania,Fiji,2000-01-01,832509
+Europe,Finland,2000-01-01,5176209
+Europe,France,2000-01-01,58665453
+South America,French Guiana,2000-01-01,164351
+Oceania,French Polynesia,2000-01-01,250927
+Africa,Gabon,2000-01-01,1272935
+Africa,Gambia,2000-01-01,1437539
+Asia,Georgia,2000-01-01,4265172
+Europe,Germany,2000-01-01,81551677
+Africa,Ghana,2000-01-01,19665502
+Europe,Gibraltar,2000-01-01,27741
+Europe,Greece,2000-01-01,11038109
+North America,Greenland,2000-01-01,56184
+North America,Grenada,2000-01-01,107432
+North America,Guadeloupe,2000-01-01,424067
+Oceania,Guam,2000-01-01,160188
+North America,Guatemala,2000-01-01,11735894
+Europe,Guernsey,2000-01-01,59114
+Africa,Guinea,2000-01-01,8336967
+Africa,Guinea-Bissau,2000-01-01,1230849
+South America,Guyana,2000-01-01,759051
+North America,Haiti,2000-01-01,8360225
+North America,Honduras,2000-01-01,6656725
+Asia,Hong Kong,2000-01-01,6731195
+Europe,Hungary,2000-01-01,10202055
+Europe,Iceland,2000-01-01,281462
+Asia,India,2000-01-01,1059633675
+Asia,Indonesia,2000-01-01,214072421
+Asia,Iran,2000-01-01,65544383
+Asia,Iraq,2000-01-01,24628858
+Europe,Ireland,2000-01-01,3768950
+Europe,Isle of Man,2000-01-01,75562
+Asia,Israel,2000-01-01,6116958
+Europe,Italy,2000-01-01,56966397
+Africa,Ivory Coast,2000-01-01,16799670
+North America,Jamaica,2000-01-01,2612205
+Asia,Japan,2000-01-01,126803861
+Europe,Jersey,2000-01-01,86192
+Asia,Jordan,2000-01-01,5056174
+Asia,Kazakhstan,2000-01-01,15236253
+Africa,Kenya,2000-01-01,30851606
+Oceania,Kiribati,2000-01-01,88826
+Asia,Kuwait,2000-01-01,1934901
+Asia,Kyrgyzstan,2000-01-01,4935182
+Asia,Laos,2000-01-01,5430853
+Europe,Latvia,2000-01-01,2392530
+Asia,Lebanon,2000-01-01,4320642
+Africa,Lesotho,2000-01-01,1998630
+Africa,Liberia,2000-01-01,2895224
+Africa,Libya,2000-01-01,5154790
+Europe,Liechtenstein,2000-01-01,33026
+Europe,Lithuania,2000-01-01,3599637
+Europe,Luxembourg,2000-01-01,435628
+Asia,Macau,2000-01-01,431896
+Africa,Madagascar,2000-01-01,16216431
+Africa,Malawi,2000-01-01,11229387
+Asia,Malaysia,2000-01-01,22945150
+Asia,Maldives,2000-01-01,282507
+Africa,Mali,2000-01-01,11239101
+Europe,Malta,2000-01-01,399212
+Oceania,Marshall Islands,2000-01-01,54224
+North America,Martinique,2000-01-01,432543
+Africa,Mauritania,2000-01-01,2695003
+Africa,Mauritius,2000-01-01,1215930
+Africa,Mayotte,2000-01-01,159215
+North America,Mexico,2000-01-01,97873442
+Oceania,Micronesia,2000-01-01,111709
+Europe,Moldova,2000-01-01,4251573
+Europe,Monaco,2000-01-01,32465
+Asia,Mongolia,2000-01-01,2450979
+Europe,Montenegro,2000-01-01,633324
+North America,Montserrat,2000-01-01,5138
+Africa,Morocco,2000-01-01,28554415
+Africa,Mozambique,2000-01-01,17768505
+Asia,Myanmar,2000-01-01,45538332
+Africa,Namibia,2000-01-01,1819141
+Oceania,Nauru,2000-01-01,10377
+Asia,Nepal,2000-01-01,24559500
+Europe,Netherlands,2000-01-01,15899135
+Oceania,New Caledonia,2000-01-01,221537
+Oceania,New Zealand,2000-01-01,3855266
+North America,Nicaragua,2000-01-01,5123222
+Africa,Niger,2000-01-01,11622665
+Africa,Nigeria,2000-01-01,122851984
+Oceania,Niue,2000-01-01,2074
+Asia,North Korea,2000-01-01,23367059
+Europe,North Macedonia,2000-01-01,2037936
+Oceania,Northern Mariana Islands,2000-01-01,80338
+Europe,Norway,2000-01-01,4491202
+Asia,Oman,2000-01-01,2344253
+Asia,Pakistan,2000-01-01,154369924
+Oceania,Palau,2000-01-01,19726
+Asia,Palestine,2000-01-01,3139954
+North America,Panama,2000-01-01,3001731
+Oceania,Papua New Guinea,2000-01-01,5508297
+South America,Paraguay,2000-01-01,5123819
+South America,Peru,2000-01-01,26654439
+Asia,Philippines,2000-01-01,77958223
+Europe,Poland,2000-01-01,38504431
+Europe,Portugal,2000-01-01,10300626
+North America,Puerto Rico,2000-01-01,3827108
+Asia,Qatar,2000-01-01,645937
+Africa,Republic of the Congo,2000-01-01,3134030
+Africa,Reunion,2000-01-01,785424
+Europe,Romania,2000-01-01,21919876
+Europe,Russia,2000-01-01,146844839
+Africa,Rwanda,2000-01-01,8109989
+North America,Saint Barthelemy,2000-01-01,7082
+North America,Saint Kitts and Nevis,2000-01-01,45461
+North America,Saint Lucia,2000-01-01,159500
+North America,Saint Martin,2000-01-01,29610
+North America,Saint Pierre and Miquelon,2000-01-01,6274
+North America,Saint Vincent and the Grenadines,2000-01-01,113813
+Oceania,Samoa,2000-01-01,184008
+Europe,San Marino,2000-01-01,26823
+Africa,Sao Tome and Principe,2000-01-01,143714
+Asia,Saudi Arabia,2000-01-01,21547390
+Africa,Senegal,2000-01-01,9704287
+Europe,Serbia,2000-01-01,7935022
+Africa,Seychelles,2000-01-01,80060
+Africa,Sierra Leone,2000-01-01,4584067
+Asia,Singapore,2000-01-01,4053602
+North America,Sint Maarten,2000-01-01,30489
+Europe,Slovakia,2000-01-01,5376690
+Europe,Slovenia,2000-01-01,1984339
+Oceania,Solomon Islands,2000-01-01,429978
+Africa,Somalia,2000-01-01,8721465
+Africa,South Africa,2000-01-01,46813266
+Asia,South Korea,2000-01-01,46788591
+Africa,South Sudan,2000-01-01,6114440
+Europe,Spain,2000-01-01,40741651
+Asia,Sri Lanka,2000-01-01,18776371
+Africa,Sudan,2000-01-01,26298773
+South America,Suriname,2000-01-01,478998
+Europe,Sweden,2000-01-01,8871043
+Europe,Switzerland,2000-01-01,7182059
+Asia,Syria,2000-01-01,16307654
+Asia,Taiwan,2000-01-01,22194731
+Asia,Tajikistan,2000-01-01,6272998
+Africa,Tanzania,2000-01-01,34463704
+Asia,Thailand,2000-01-01,63066603
+Asia,Timor-Leste,2000-01-01,878360
+Africa,Togo,2000-01-01,5008035
+Oceania,Tokelau,2000-01-01,1666
+Oceania,Tonga,2000-01-01,102603
+North America,Trinidad and Tobago,2000-01-01,1332203
+Africa,Tunisia,2000-01-01,9893316
+Asia,Turkey,2000-01-01,64113547
+Asia,Turkmenistan,2000-01-01,4569132
+North America,Turks and Caicos Islands,2000-01-01,18744
+Oceania,Tuvalu,2000-01-01,9638
+Africa,Uganda,2000-01-01,24020697
+Europe,Ukraine,2000-01-01,48879755
+Asia,United Arab Emirates,2000-01-01,3275333
+Europe,United Kingdom,2000-01-01,58850043
+North America,United States,2000-01-01,282398554
+North America,United States Virgin Islands,2000-01-01,108185
+South America,Uruguay,2000-01-01,3292224
+Asia,Uzbekistan,2000-01-01,24925554
+Oceania,Vanuatu,2000-01-01,192074
+Europe,Vatican City,2000-01-01,651
+South America,Venezuela,2000-01-01,24427729
+Asia,Vietnam,2000-01-01,79001142
+Oceania,Wallis and Futuna,2000-01-01,14723
+Africa,Western Sahara,2000-01-01,270375
+Asia,Yemen,2000-01-01,18628700
+Africa,Zambia,2000-01-01,9891136
+Africa,Zimbabwe,2000-01-01,11834676
+Asia,Afghanistan,2010-01-01,28189672
+Europe,Albania,2010-01-01,2913399
+Africa,Algeria,2010-01-01,35856344
+Oceania,American Samoa,2010-01-01,54849
+Europe,Andorra,2010-01-01,71519
+Africa,Angola,2010-01-01,23364185
+North America,Anguilla,2010-01-01,13172
+North America,Antigua and Barbuda,2010-01-01,85695
+South America,Argentina,2010-01-01,41100123
+Asia,Armenia,2010-01-01,2946293
+North America,Aruba,2010-01-01,100341
+Oceania,Australia,2010-01-01,22019168
+Europe,Austria,2010-01-01,8362829
+Asia,Azerbaijan,2010-01-01,9237202
+North America,Bahamas,2010-01-01,373272
+Asia,Bahrain,2010-01-01,1213645
+Asia,Bangladesh,2010-01-01,148391139
+North America,Barbados,2010-01-01,274711
+Europe,Belarus,2010-01-01,9731427
+Europe,Belgium,2010-01-01,10877947
+North America,Belize,2010-01-01,322106
+Africa,Benin,2010-01-01,9445710
+North America,Bermuda,2010-01-01,63447
+Asia,Bhutan,2010-01-01,705516
+South America,Bolivia,2010-01-01,10223270
+Europe,Bosnia and Herzegovina,2010-01-01,3811088
+Africa,Botswana,2010-01-01,2091664
+South America,Brazil,2010-01-01,196353492
+North America,British Virgin Islands,2010-01-01,27556
+Asia,Brunei,2010-01-01,396053
+Europe,Bulgaria,2010-01-01,7592273
+Africa,Burkina Faso,2010-01-01,16116845
+Africa,Burundi,2010-01-01,9126605
+Asia,Cambodia,2010-01-01,14363532
+Africa,Cameroon,2010-01-01,19878036
+North America,Canada,2010-01-01,33963412
+Africa,Cape Verde,2010-01-01,521212
+North America,Cayman Islands,2010-01-01,54074
+Africa,Central African Republic,2010-01-01,4660067
+Africa,Chad,2010-01-01,11894727
+South America,Chile,2010-01-01,17004162
+Asia,China,2010-01-01,1348191368
+South America,Colombia,2010-01-01,44816108
+Africa,Comoros,2010-01-01,656024
+Oceania,Cook Islands,2010-01-01,17212
+North America,Costa Rica,2010-01-01,4622252
+Europe,Croatia,2010-01-01,4368682
+North America,Cuba,2010-01-01,11290417
+North America,Curacao,2010-01-01,159380
+Europe,Cyprus,2010-01-01,1129686
+Europe,Czech Republic,2010-01-01,10464749
+Europe,Denmark,2010-01-01,5550849
+Africa,Djibouti,2010-01-01,919199
+North America,Dominica,2010-01-01,68755
+North America,Dominican Republic,2010-01-01,9775755
+Africa,DR Congo,2010-01-01,66391257
+South America,Ecuador,2010-01-01,14989585
+Africa,Egypt,2010-01-01,87252413
+North America,El Salvador,2010-01-01,6114034
+Africa,Equatorial Guinea,2010-01-01,1094524
+Africa,Eritrea,2010-01-01,3147727
+Europe,Estonia,2010-01-01,1331535
+Africa,Eswatini,2010-01-01,1099920
+Africa,Ethiopia,2010-01-01,89237791
+South America,Falkland Islands,2010-01-01,3187
+Europe,Faroe Islands,2010-01-01,48410
+Oceania,Fiji,2010-01-01,905169
+Europe,Finland,2010-01-01,5363271
+Europe,France,2010-01-01,62444567
+South America,French Guiana,2010-01-01,228453
+Oceania,French Polynesia,2010-01-01,283788
+Africa,Gabon,2010-01-01,1711105
+Africa,Gambia,2010-01-01,1937275
+Asia,Georgia,2010-01-01,3836831
+Europe,Germany,2010-01-01,81325090
+Africa,Ghana,2010-01-01,25574719
+Europe,Gibraltar,2010-01-01,31262
+Europe,Greece,2010-01-01,11033783
+North America,Greenland,2010-01-01,56351
+North America,Grenada,2010-01-01,114039
+North America,Guadeloupe,2010-01-01,403072
+Oceania,Guam,2010-01-01,164905
+North America,Guatemala,2010-01-01,14543121
+Europe,Guernsey,2010-01-01,60782
+Africa,Guinea,2010-01-01,10270728
+Africa,Guinea-Bissau,2010-01-01,1567220
+South America,Guyana,2010-01-01,747932
+North America,Haiti,2010-01-01,9842880
+North America,Honduras,2010-01-01,8450933
+Asia,Hong Kong,2010-01-01,7132438
+Europe,Hungary,2010-01-01,9986825
+Europe,Iceland,2010-01-01,318333
+Asia,India,2010-01-01,1240613620
+Asia,Indonesia,2010-01-01,244016173
+Asia,Iran,2010-01-01,75373855
+Asia,Iraq,2010-01-01,31264875
+Europe,Ireland,2010-01-01,4524585
+Europe,Isle of Man,2010-01-01,83828
+Asia,Israel,2010-01-01,7328445
+Europe,Italy,2010-01-01,59822450
+Africa,Ivory Coast,2010-01-01,21120042
+North America,Jamaica,2010-01-01,2733896
+Asia,Japan,2010-01-01,128105431
+Europe,Jersey,2010-01-01,96151
+Asia,Jordan,2010-01-01,6931258
+Asia,Kazakhstan,2010-01-01,16627837
+Africa,Kenya,2010-01-01,41517895
+Oceania,Kiribati,2010-01-01,107995
+Asia,Kuwait,2010-01-01,2943356
+Asia,Kyrgyzstan,2010-01-01,5483774
+Asia,Laos,2010-01-01,6323418
+Europe,Latvia,2010-01-01,2101530
+Asia,Lebanon,2010-01-01,4995800
+Africa,Lesotho,2010-01-01,2022747
+Africa,Liberia,2010-01-01,4019956
+Africa,Libya,2010-01-01,6491988
+Europe,Liechtenstein,2010-01-01,35926
+Europe,Lithuania,2010-01-01,3139019
+Europe,Luxembourg,2010-01-01,507070
+Asia,Macau,2010-01-01,557297
+Africa,Madagascar,2010-01-01,21731053
+Africa,Malawi,2010-01-01,14718422
+Asia,Malaysia,2010-01-01,28717731
+Asia,Maldives,2010-01-01,361575
+Africa,Mali,2010-01-01,15529181
+Europe,Malta,2010-01-01,418755
+Oceania,Marshall Islands,2010-01-01,53416
+North America,Martinique,2010-01-01,392181
+Africa,Mauritania,2010-01-01,3419461
+Africa,Mauritius,2010-01-01,1283330
+Africa,Mayotte,2010-01-01,211786
+North America,Mexico,2010-01-01,112532401
+Oceania,Micronesia,2010-01-01,107588
+Europe,Moldova,2010-01-01,3678186
+Europe,Monaco,2010-01-01,33178
+Asia,Mongolia,2010-01-01,2702520
+Europe,Montenegro,2010-01-01,631044
+North America,Montserrat,2010-01-01,4938
+Africa,Morocco,2010-01-01,32464865
+Africa,Mozambique,2010-01-01,23073723
+Asia,Myanmar,2010-01-01,49390988
+Africa,Namibia,2010-01-01,2099271
+Oceania,Nauru,2010-01-01,10241
+Asia,Nepal,2010-01-01,27161567
+Europe,Netherlands,2010-01-01,16617116
+Oceania,New Caledonia,2010-01-01,261426
+Oceania,New Zealand,2010-01-01,4346338
+North America,Nicaragua,2010-01-01,5855734
+Africa,Niger,2010-01-01,16647543
+Africa,Nigeria,2010-01-01,160952853
+Oceania,Niue,2010-01-01,1812
+Asia,North Korea,2010-01-01,24686435
+Europe,North Macedonia,2010-01-01,2093828
+Oceania,Northern Mariana Islands,2010-01-01,54087
+Europe,Norway,2010-01-01,4889741
+Asia,Oman,2010-01-01,2881914
+Asia,Pakistan,2010-01-01,194454498
+Oceania,Palau,2010-01-01,18540
+Asia,Palestine,2010-01-01,3992278
+North America,Panama,2010-01-01,3623617
+Oceania,Papua New Guinea,2010-01-01,7583269
+South America,Paraguay,2010-01-01,5768613
+South America,Peru,2010-01-01,29229572
+Asia,Philippines,2010-01-01,94636700
+Europe,Poland,2010-01-01,38597353
+Europe,Portugal,2010-01-01,10588401
+North America,Puerto Rico,2010-01-01,3717922
+Asia,Qatar,2010-01-01,1713504
+Africa,Republic of the Congo,2010-01-01,4437884
+Africa,Reunion,2010-01-01,890130
+Europe,Romania,2010-01-01,20335211
+Europe,Russia,2010-01-01,143242599
+Africa,Rwanda,2010-01-01,10309031
+North America,Saint Barthelemy,2010-01-01,8988
+North America,Saint Kitts and Nevis,2010-01-01,47403
+North America,Saint Lucia,2010-01-01,170935
+North America,Saint Martin,2010-01-01,36458
+North America,Saint Pierre and Miquelon,2010-01-01,6052
+North America,Saint Vincent and the Grenadines,2010-01-01,109308
+Oceania,Samoa,2010-01-01,194672
+Europe,San Marino,2010-01-01,31608
+Africa,Sao Tome and Principe,2010-01-01,182138
+Asia,Saudi Arabia,2010-01-01,29411929
+Africa,Senegal,2010-01-01,12530121
+Europe,Serbia,2010-01-01,7653748
+Africa,Seychelles,2010-01-01,92409
+Africa,Sierra Leone,2010-01-01,6436698
+Asia,Singapore,2010-01-01,5163590
+North America,Sint Maarten,2010-01-01,33034
+Europe,Slovakia,2010-01-01,5396424
+Europe,Slovenia,2010-01-01,2057286
+Oceania,Solomon Islands,2010-01-01,540394
+Africa,Somalia,2010-01-01,12026649
+Africa,South Africa,2010-01-01,51784921
+Asia,South Korea,2010-01-01,48813042
+Africa,South Sudan,2010-01-01,9714419
+Europe,Spain,2010-01-01,46572772
+Asia,Sri Lanka,2010-01-01,20668557
+Africa,Sudan,2010-01-01,33739933
+South America,Suriname,2010-01-01,546080
+Europe,Sweden,2010-01-01,9381729
+Europe,Switzerland,2010-01-01,7822435
+Asia,Syria,2010-01-01,22337563
+Asia,Taiwan,2010-01-01,23083083
+Asia,Tajikistan,2010-01-01,7621779
+Africa,Tanzania,2010-01-01,45110527
+Asia,Thailand,2010-01-01,68270489
+Asia,Timor-Leste,2010-01-01,1088486
+Africa,Togo,2010-01-01,6571855
+Oceania,Tokelau,2010-01-01,1367
+Oceania,Tonga,2010-01-01,107383
+North America,Trinidad and Tobago,2010-01-01,1410296
+Africa,Tunisia,2010-01-01,10895063
+Asia,Turkey,2010-01-01,73195345
+Asia,Turkmenistan,2010-01-01,5267970
+North America,Turks and Caicos Islands,2010-01-01,29726
+Oceania,Tuvalu,2010-01-01,10550
+Africa,Uganda,2010-01-01,32341728
+Europe,Ukraine,2010-01-01,45683020
+Asia,United Arab Emirates,2010-01-01,8481771
+Europe,United Kingdom,2010-01-01,62760039
+North America,United States,2010-01-01,311182845
+North America,United States Virgin Islands,2010-01-01,106142
+South America,Uruguay,2010-01-01,3352651
+Asia,Uzbekistan,2010-01-01,28614227
+Oceania,Vanuatu,2010-01-01,245453
+Europe,Vatican City,2010-01-01,596
+South America,Venezuela,2010-01-01,28715022
+Asia,Vietnam,2010-01-01,87411012
+Oceania,Wallis and Futuna,2010-01-01,13142
+Africa,Western Sahara,2010-01-01,413296
+Asia,Yemen,2010-01-01,24743946
+Africa,Zambia,2010-01-01,13792086
+Africa,Zimbabwe,2010-01-01,12839771
+Asia,Afghanistan,2015-01-01,33753499
+Europe,Albania,2015-01-01,2882481
+Africa,Algeria,2015-01-01,39543154
+Oceania,American Samoa,2015-01-01,51368
+Europe,Andorra,2015-01-01,71746
+Africa,Angola,2015-01-01,28127721
+North America,Anguilla,2015-01-01,14525
+North America,Antigua and Barbuda,2015-01-01,89941
+South America,Argentina,2015-01-01,43257065
+Asia,Armenia,2015-01-01,2878595
+North America,Aruba,2015-01-01,104257
+Oceania,Australia,2015-01-01,23820236
+Europe,Austria,2015-01-01,8642421
+Asia,Azerbaijan,2015-01-01,9863480
+North America,Bahamas,2015-01-01,392697
+Asia,Bahrain,2015-01-01,1362142
+Asia,Bangladesh,2015-01-01,157830000
+North America,Barbados,2015-01-01,278083
+Europe,Belarus,2015-01-01,9700609
+Europe,Belgium,2015-01-01,11248303
+North America,Belize,2015-01-01,359871
+Africa,Benin,2015-01-01,10932783
+North America,Bermuda,2015-01-01,63144
+Asia,Bhutan,2015-01-01,743274
+South America,Bolivia,2015-01-01,11090085
+Europe,Bosnia and Herzegovina,2015-01-01,3524324
+Africa,Botswana,2015-01-01,2305171
+South America,Brazil,2015-01-01,205188205
+North America,British Virgin Islands,2015-01-01,29366
+Asia,Brunei,2015-01-01,421437
+Europe,Bulgaria,2015-01-01,7309253
+Africa,Burkina Faso,2015-01-01,18718019
+Africa,Burundi,2015-01-01,10727148
+Asia,Cambodia,2015-01-01,15417523
+Africa,Cameroon,2015-01-01,23012646
+North America,Canada,2015-01-01,35732126
+Africa,Cape Verde,2015-01-01,552166
+North America,Cayman Islands,2015-01-01,60911
+Africa,Central African Republic,2015-01-01,4819333
+Africa,Chad,2015-01-01,14140274
+South America,Chile,2015-01-01,17870124
+Asia,China,2015-01-01,1393715448
+South America,Colombia,2015-01-01,47119728
+Africa,Comoros,2015-01-01,730216
+Oceania,Cook Islands,2015-01-01,17695
+North America,Costa Rica,2015-01-01,4895242
+Europe,Croatia,2015-01-01,4254815
+North America,Cuba,2015-01-01,11339894
+North America,Curacao,2015-01-01,169572
+Europe,Cyprus,2015-01-01,1187280
+Europe,Czech Republic,2015-01-01,10523798
+Europe,Denmark,2015-01-01,5677796
+Africa,Djibouti,2015-01-01,1006259
+North America,Dominica,2015-01-01,70007
+North America,Dominican Republic,2015-01-01,10405832
+Africa,DR Congo,2015-01-01,78656904
+South America,Ecuador,2015-01-01,16195902
+Africa,Egypt,2015-01-01,97723799
+North America,El Salvador,2015-01-01,6231066
+Africa,Equatorial Guinea,2015-01-01,1346973
+Africa,Eritrea,2015-01-01,3340006
+Europe,Estonia,2015-01-01,1314657
+Africa,Eswatini,2015-01-01,1133936
+Africa,Ethiopia,2015-01-01,102471895
+South America,Falkland Islands,2015-01-01,3408
+Europe,Faroe Islands,2015-01-01,48816
+Oceania,Fiji,2015-01-01,917200
+Europe,Finland,2015-01-01,5479461
+Europe,France,2015-01-01,63809769
+South America,French Guiana,2015-01-01,257026
+Oceania,French Polynesia,2015-01-01,291787
+Africa,Gabon,2015-01-01,2028517
+Africa,Gambia,2015-01-01,2253133
+Asia,Georgia,2015-01-01,3771132
+Europe,Germany,2015-01-01,82073226
+Africa,Ghana,2015-01-01,28870939
+Europe,Gibraltar,2015-01-01,32520
+Europe,Greece,2015-01-01,10806641
+North America,Greenland,2015-01-01,55895
+North America,Grenada,2015-01-01,118980
+North America,Guadeloupe,2015-01-01,399089
+Oceania,Guam,2015-01-01,167978
+North America,Guatemala,2015-01-01,16001107
+Europe,Guernsey,2015-01-01,61629
+Africa,Guinea,2015-01-01,11625998
+Africa,Guinea-Bissau,2015-01-01,1788919
+South America,Guyana,2015-01-01,755031
+North America,Haiti,2015-01-01,10563757
+North America,Honduras,2015-01-01,9294505
+Asia,Hong Kong,2015-01-01,7399838
+Europe,Hungary,2015-01-01,9844246
+Europe,Iceland,2015-01-01,331060
+Asia,India,2015-01-01,1322866505
+Asia,Indonesia,2015-01-01,259091970
+Asia,Iran,2015-01-01,81790841
+Asia,Iraq,2015-01-01,37757813
+Europe,Ireland,2015-01-01,4665760
+Europe,Isle of Man,2015-01-01,83593
+Asia,Israel,2015-01-01,8007778
+Europe,Italy,2015-01-01,60232906
+Africa,Ivory Coast,2015-01-01,23596741
+North America,Jamaica,2015-01-01,2794445
+Asia,Japan,2015-01-01,127250933
+Europe,Jersey,2015-01-01,100561
+Asia,Jordan,2015-01-01,9494246
+Asia,Kazakhstan,2015-01-01,17835909
+Africa,Kenya,2015-01-01,46851488
+Oceania,Kiribati,2015-01-01,116707
+Asia,Kuwait,2015-01-01,3908743
+Asia,Kyrgyzstan,2015-01-01,5914980
+Asia,Laos,2015-01-01,6787419
+Europe,Latvia,2015-01-01,1991955
+Asia,Lebanon,2015-01-01,6398940
+Africa,Lesotho,2015-01-01,2118521
+Africa,Liberia,2015-01-01,4612329
+Africa,Libya,2015-01-01,6192235
+Europe,Liechtenstein,2015-01-01,37355
+Europe,Lithuania,2015-01-01,2963765
+Europe,Luxembourg,2015-01-01,569408
+Asia,Macau,2015-01-01,615239
+Africa,Madagascar,2015-01-01,24850912
+Africa,Malawi,2015-01-01,16938942
+Asia,Malaysia,2015-01-01,31068833
+Asia,Maldives,2015-01-01,435582
+Africa,Mali,2015-01-01,18112907
+Europe,Malta,2015-01-01,456579
+Oceania,Marshall Islands,2015-01-01,49410
+North America,Martinique,2015-01-01,383515
+Africa,Mauritania,2015-01-01,3946220
+Africa,Mauritius,2015-01-01,1293153
+Africa,Mayotte,2015-01-01,249545
+North America,Mexico,2015-01-01,120149897
+Oceania,Micronesia,2015-01-01,109462
+Europe,Moldova,2015-01-01,3277388
+Europe,Monaco,2015-01-01,36760
+Asia,Mongolia,2015-01-01,2964749
+Europe,Montenegro,2015-01-01,633966
+North America,Montserrat,2015-01-01,5059
+Africa,Morocco,2015-01-01,34680458
+Africa,Mozambique,2015-01-01,26843246
+Asia,Myanmar,2015-01-01,51483949
+Africa,Namibia,2015-01-01,2282704
+Oceania,Nauru,2015-01-01,11185
+Asia,Nepal,2015-01-01,27610325
+Europe,Netherlands,2015-01-01,17041107
+Oceania,New Caledonia,2015-01-01,283032
+Oceania,New Zealand,2015-01-01,4590590
+North America,Nicaragua,2015-01-01,6298598
+Africa,Niger,2015-01-01,20128124
+Africa,Nigeria,2015-01-01,183995785
+Oceania,Niue,2015-01-01,1847
+Asia,North Korea,2015-01-01,25258015
+Europe,North Macedonia,2015-01-01,2107962
+Oceania,Northern Mariana Islands,2015-01-01,51514
+Europe,Norway,2015-01-01,5190356
+Asia,Oman,2015-01-01,4191776
+Asia,Pakistan,2015-01-01,210969298
+Oceania,Palau,2015-01-01,17794
+Asia,Palestine,2015-01-01,4484614
+North America,Panama,2015-01-01,3957099
+Oceania,Papua New Guinea,2015-01-01,8682174
+South America,Paraguay,2015-01-01,6177950
+South America,Peru,2015-01-01,30711863
+Asia,Philippines,2015-01-01,103031365
+Europe,Poland,2015-01-01,38553146
+Europe,Portugal,2015-01-01,10365435
+North America,Puerto Rico,2015-01-01,3497335
+Asia,Qatar,2015-01-01,2414573
+Africa,Republic of the Congo,2015-01-01,5064386
+Africa,Reunion,2015-01-01,922495
+Europe,Romania,2015-01-01,19906079
+Europe,Russia,2015-01-01,144668389
+Africa,Rwanda,2015-01-01,11642959
+North America,Saint Barthelemy,2015-01-01,9643
+North America,Saint Kitts and Nevis,2015-01-01,47790
+North America,Saint Lucia,2015-01-01,175623
+North America,Saint Martin,2015-01-01,35020
+North America,Saint Pierre and Miquelon,2015-01-01,5978
+North America,Saint Vincent and the Grenadines,2015-01-01,106482
+Oceania,Samoa,2015-01-01,203571
+Europe,San Marino,2015-01-01,33570
+Africa,Sao Tome and Principe,2015-01-01,201124
+Asia,Saudi Arabia,2015-01-01,32749848
+Africa,Senegal,2015-01-01,14356181
+Europe,Serbia,2015-01-01,7519496
+Africa,Seychelles,2015-01-01,99240
+Africa,Sierra Leone,2015-01-01,7314773
+Asia,Singapore,2015-01-01,5650018
+North America,Sint Maarten,2015-01-01,40205
+Europe,Slovakia,2015-01-01,5424444
+Europe,Slovenia,2015-01-01,2080862
+Oceania,Solomon Islands,2015-01-01,612660
+Africa,Somalia,2015-01-01,13763906
+Africa,South Africa,2015-01-01,55876504
+Asia,South Korea,2015-01-01,50994401
+Africa,South Sudan,2015-01-01,11194299
+Europe,Spain,2015-01-01,46431342
+Asia,Sri Lanka,2015-01-01,21336697
+Africa,Sudan,2015-01-01,38171178
+South America,Suriname,2015-01-01,575475
+Europe,Sweden,2015-01-01,9849349
+Europe,Switzerland,2015-01-01,8281732
+Asia,Syria,2015-01-01,19205178
+Asia,Taiwan,2015-01-01,23512136
+Asia,Tajikistan,2015-01-01,8524063
+Africa,Tanzania,2015-01-01,52542823
+Asia,Thailand,2015-01-01,70294397
+Asia,Timor-Leste,2015-01-01,1205813
+Africa,Togo,2015-01-01,7473229
+Oceania,Tokelau,2015-01-01,1454
+Oceania,Tonga,2015-01-01,106122
+North America,Trinidad and Tobago,2015-01-01,1460177
+Africa,Tunisia,2015-01-01,11557779
+Asia,Turkey,2015-01-01,79646178
+Asia,Turkmenistan,2015-01-01,5766431
+North America,Turks and Caicos Islands,2015-01-01,36538
+Oceania,Tuvalu,2015-01-01,10877
+Africa,Uganda,2015-01-01,37477356
+Europe,Ukraine,2015-01-01,44982564
+Asia,United Arab Emirates,2015-01-01,8916899
+Europe,United Kingdom,2015-01-01,65224364
+North America,United States,2015-01-01,324607776
+North America,United States Virgin Islands,2015-01-01,102803
+South America,Uruguay,2015-01-01,3402818
+Asia,Uzbekistan,2015-01-01,30949417
+Oceania,Vanuatu,2015-01-01,276438
+Europe,Vatican City,2015-01-01,564
+South America,Venezuela,2015-01-01,30529716
+Asia,Vietnam,2015-01-01,92191398
+Oceania,Wallis and Futuna,2015-01-01,12182
+Africa,Western Sahara,2015-01-01,491824
+Asia,Yemen,2015-01-01,28516545
+Africa,Zambia,2015-01-01,16248230
+Africa,Zimbabwe,2015-01-01,14154937
+Asia,Afghanistan,2020-01-01,38972230
+Europe,Albania,2020-01-01,2866849
+Africa,Algeria,2020-01-01,43451666
+Oceania,American Samoa,2020-01-01,46189
+Europe,Andorra,2020-01-01,77700
+Africa,Angola,2020-01-01,33428485
+North America,Anguilla,2020-01-01,15585
+North America,Antigua and Barbuda,2020-01-01,92664
+South America,Argentina,2020-01-01,45036032
+Asia,Armenia,2020-01-01,2805608
+North America,Aruba,2020-01-01,106585
+Oceania,Australia,2020-01-01,25670051
+Europe,Austria,2020-01-01,8907777
+Asia,Azerbaijan,2020-01-01,10284951
+North America,Bahamas,2020-01-01,406471
+Asia,Bahrain,2020-01-01,1477469
+Asia,Bangladesh,2020-01-01,167420951
+North America,Barbados,2020-01-01,280693
+Europe,Belarus,2020-01-01,9633740
+Europe,Belgium,2020-01-01,11561717
+North America,Belize,2020-01-01,394921
+Africa,Benin,2020-01-01,12643123
+North America,Bermuda,2020-01-01,64031
+Asia,Bhutan,2020-01-01,772506
+South America,Bolivia,2020-01-01,11936162
+Europe,Bosnia and Herzegovina,2020-01-01,3318407
+Africa,Botswana,2020-01-01,2546402
+South America,Brazil,2020-01-01,213196304
+North America,British Virgin Islands,2020-01-01,30910
+Asia,Brunei,2020-01-01,441725
+Europe,Bulgaria,2020-01-01,6979175
+Africa,Burkina Faso,2020-01-01,21522626
+Africa,Burundi,2020-01-01,12220227
+Asia,Cambodia,2020-01-01,16396860
+Africa,Cameroon,2020-01-01,26491087
+North America,Canada,2020-01-01,37888705
+Africa,Cape Verde,2020-01-01,582640
+North America,Cayman Islands,2020-01-01,67311
+Africa,Central African Republic,2020-01-01,5343020
+Africa,Chad,2020-01-01,16644701
+South America,Chile,2020-01-01,19300315
+Asia,China,2020-01-01,1424929781
+South America,Colombia,2020-01-01,50930662
+Africa,Comoros,2020-01-01,806166
+Oceania,Cook Islands,2020-01-01,17029
+North America,Costa Rica,2020-01-01,5123105
+Europe,Croatia,2020-01-01,4096868
+North America,Cuba,2020-01-01,11300698
+North America,Curacao,2020-01-01,189288
+Europe,Cyprus,2020-01-01,1237537
+Europe,Czech Republic,2020-01-01,10530953
+Europe,Denmark,2020-01-01,5825641
+Africa,Djibouti,2020-01-01,1090156
+North America,Dominica,2020-01-01,71995
+North America,Dominican Republic,2020-01-01,10999664
+Africa,DR Congo,2020-01-01,92853164
+South America,Ecuador,2020-01-01,17588595
+Africa,Egypt,2020-01-01,107465134
+North America,El Salvador,2020-01-01,6292731
+Africa,Equatorial Guinea,2020-01-01,1596049
+Africa,Eritrea,2020-01-01,3555868
+Europe,Estonia,2020-01-01,1329444
+Africa,Eswatini,2020-01-01,1180655
+Africa,Ethiopia,2020-01-01,117190911
+South America,Falkland Islands,2020-01-01,3747
+Europe,Faroe Islands,2020-01-01,52415
+Oceania,Fiji,2020-01-01,920422
+Europe,Finland,2020-01-01,5529468
+Europe,France,2020-01-01,64480053
+South America,French Guiana,2020-01-01,290969
+Oceania,French Polynesia,2020-01-01,301920
+Africa,Gabon,2020-01-01,2292573
+Africa,Gambia,2020-01-01,2573995
+Asia,Georgia,2020-01-01,3765912
+Europe,Germany,2020-01-01,83328988
+Africa,Ghana,2020-01-01,32180401
+Europe,Gibraltar,2020-01-01,32709
+Europe,Greece,2020-01-01,10512232
+North America,Greenland,2020-01-01,56026
+North America,Grenada,2020-01-01,123663
+North America,Guadeloupe,2020-01-01,395642
+Oceania,Guam,2020-01-01,169231
+North America,Guatemala,2020-01-01,17362718
+Europe,Guernsey,2020-01-01,62794
+Africa,Guinea,2020-01-01,13205153
+Africa,Guinea-Bissau,2020-01-01,2015828
+South America,Guyana,2020-01-01,797202
+North America,Haiti,2020-01-01,11306801
+North America,Honduras,2020-01-01,10121763
+Asia,Hong Kong,2020-01-01,7500958
+Europe,Hungary,2020-01-01,9750573
+Europe,Iceland,2020-01-01,366669
+Asia,India,2020-01-01,1396387127
+Asia,Indonesia,2020-01-01,271857970
+Asia,Iran,2020-01-01,87290193
+Asia,Iraq,2020-01-01,42556984
+Europe,Ireland,2020-01-01,4946119
+Europe,Isle of Man,2020-01-01,84046
+Asia,Israel,2020-01-01,8757489
+Europe,Italy,2020-01-01,59500579
+Africa,Ivory Coast,2020-01-01,26811790
+North America,Jamaica,2020-01-01,2820436
+Asia,Japan,2020-01-01,125244761
+Europe,Jersey,2020-01-01,108319
+Asia,Jordan,2020-01-01,10928721
+Asia,Kazakhstan,2020-01-01,18979243
+Africa,Kenya,2020-01-01,51985780
+Oceania,Kiribati,2020-01-01,126463
+Asia,Kuwait,2020-01-01,4360444
+Asia,Kyrgyzstan,2020-01-01,6424874
+Asia,Laos,2020-01-01,7319399
+Europe,Latvia,2020-01-01,1897052
+Asia,Lebanon,2020-01-01,5662923
+Africa,Lesotho,2020-01-01,2254100
+Africa,Liberia,2020-01-01,5087584
+Africa,Libya,2020-01-01,6653942
+Europe,Liechtenstein,2020-01-01,38756
+Europe,Lithuania,2020-01-01,2820267
+Europe,Luxembourg,2020-01-01,630399
+Asia,Macau,2020-01-01,676283
+Africa,Madagascar,2020-01-01,28225177
+Africa,Malawi,2020-01-01,19377061
+Asia,Malaysia,2020-01-01,33199993
+Asia,Maldives,2020-01-01,514438
+Africa,Mali,2020-01-01,21224040
+Europe,Malta,2020-01-01,515357
+Oceania,Marshall Islands,2020-01-01,43413
+North America,Martinique,2020-01-01,370391
+Africa,Mauritania,2020-01-01,4498604
+Africa,Mauritius,2020-01-01,1297828
+Africa,Mayotte,2020-01-01,305587
+North America,Mexico,2020-01-01,125998302
+Oceania,Micronesia,2020-01-01,112106
+Europe,Moldova,2020-01-01,3084847
+Europe,Monaco,2020-01-01,36922
+Asia,Mongolia,2020-01-01,3294335
+Europe,Montenegro,2020-01-01,629048
+North America,Montserrat,2020-01-01,4500
+Africa,Morocco,2020-01-01,36688772
+Africa,Mozambique,2020-01-01,31178239
+Asia,Myanmar,2020-01-01,53423198
+Africa,Namibia,2020-01-01,2489098
+Oceania,Nauru,2020-01-01,12315
+Asia,Nepal,2020-01-01,29348627
+Europe,Netherlands,2020-01-01,17434557
+Oceania,New Caledonia,2020-01-01,286403
+Oceania,New Zealand,2020-01-01,5061133
+North America,Nicaragua,2020-01-01,6755895
+Africa,Niger,2020-01-01,24333639
+Africa,Nigeria,2020-01-01,208327405
+Oceania,Niue,2020-01-01,1942
+Asia,North Korea,2020-01-01,25867467
+Europe,North Macedonia,2020-01-01,2111072
+Oceania,Northern Mariana Islands,2020-01-01,49587
+Europe,Norway,2020-01-01,5379839
+Asia,Oman,2020-01-01,4543399
+Asia,Pakistan,2020-01-01,227196741
+Oceania,Palau,2020-01-01,17972
+Asia,Palestine,2020-01-01,5019401
+North America,Panama,2020-01-01,4294396
+Oceania,Papua New Guinea,2020-01-01,9749640
+South America,Paraguay,2020-01-01,6618695
+South America,Peru,2020-01-01,33304756
+Asia,Philippines,2020-01-01,112190977
+Europe,Poland,2020-01-01,38428366
+Europe,Portugal,2020-01-01,10298192
+North America,Puerto Rico,2020-01-01,3271564
+Asia,Qatar,2020-01-01,2760385
+Africa,Republic of the Congo,2020-01-01,5702174
+Africa,Reunion,2020-01-01,957822
+Europe,Romania,2020-01-01,19442038
+Europe,Russia,2020-01-01,145617329
+Africa,Rwanda,2020-01-01,13146362
+North America,Saint Barthelemy,2020-01-01,10681
+North America,Saint Kitts and Nevis,2020-01-01,47642
+North America,Saint Lucia,2020-01-01,179237
+North America,Saint Martin,2020-01-01,32552
+North America,Saint Pierre and Miquelon,2020-01-01,5906
+North America,Saint Vincent and the Grenadines,2020-01-01,104632
+Oceania,Samoa,2020-01-01,214929
+Europe,San Marino,2020-01-01,34007
+Africa,Sao Tome and Principe,2020-01-01,218641
+Asia,Saudi Arabia,2020-01-01,35997107
+Africa,Senegal,2020-01-01,16436119
+Europe,Serbia,2020-01-01,7358005
+Africa,Seychelles,2020-01-01,105530
+Africa,Sierra Leone,2020-01-01,8233969
+Asia,Singapore,2020-01-01,5909869
+North America,Sint Maarten,2020-01-01,43621
+Europe,Slovakia,2020-01-01,5456681
+Europe,Slovenia,2020-01-01,2117641
+Oceania,Solomon Islands,2020-01-01,691191
+Africa,Somalia,2020-01-01,16537016
+Africa,South Africa,2020-01-01,58801927
+Asia,South Korea,2020-01-01,51844690
+Africa,South Sudan,2020-01-01,10606227
+Europe,Spain,2020-01-01,47363807
+Asia,Sri Lanka,2020-01-01,21715079
+Africa,Sudan,2020-01-01,44440486
+South America,Suriname,2020-01-01,607065
+Europe,Sweden,2020-01-01,10368969
+Europe,Switzerland,2020-01-01,8638613
+Asia,Syria,2020-01-01,20772595
+Asia,Taiwan,2020-01-01,23821464
+Asia,Tajikistan,2020-01-01,9543207
+Africa,Tanzania,2020-01-01,61704518
+Asia,Thailand,2020-01-01,71475664
+Asia,Timor-Leste,2020-01-01,1299995
+Africa,Togo,2020-01-01,8442580
+Oceania,Tokelau,2020-01-01,1827
+Oceania,Tonga,2020-01-01,105254
+North America,Trinidad and Tobago,2020-01-01,1518147
+Africa,Tunisia,2020-01-01,12161723
+Asia,Turkey,2020-01-01,84135428
+Asia,Turkmenistan,2020-01-01,6250438
+North America,Turks and Caicos Islands,2020-01-01,44276
+Oceania,Tuvalu,2020-01-01,11069
+Africa,Uganda,2020-01-01,44404611
+Europe,Ukraine,2020-01-01,43909666
+Asia,United Arab Emirates,2020-01-01,9287289
+Europe,United Kingdom,2020-01-01,67059474
+North America,United States,2020-01-01,335942003
+North America,United States Virgin Islands,2020-01-01,100442
+South America,Uruguay,2020-01-01,3429086
+Asia,Uzbekistan,2020-01-01,33526656
+Oceania,Vanuatu,2020-01-01,311685
+Europe,Vatican City,2020-01-01,520
+South America,Venezuela,2020-01-01,28490453
+Asia,Vietnam,2020-01-01,96648685
+Oceania,Wallis and Futuna,2020-01-01,11655
+Africa,Western Sahara,2020-01-01,556048
+Asia,Yemen,2020-01-01,32284046
+Africa,Zambia,2020-01-01,18927715
+Africa,Zimbabwe,2020-01-01,15669666
